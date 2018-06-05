@@ -2,7 +2,7 @@
 # Gabriel Moura <g@srmoura.com.br>
 
 pkgname=srmoura-keyring
-pkgver=20180321
+pkgver=20180605
 pkgrel=0
 pkgdesc='SrMoura PGP keyring'
 arch=('any')
@@ -19,7 +19,7 @@ sha512sums=(
             'ee2be8fcb6b4a3805b2012bb657b72c11d14043afcb0ff0224778766b5c3903bfe24dac0117060db0d2a82eac42b80d2936b2d33d9fc204096895d7e68df019d'
 
 #srmoura.gpg
-            'f649fef8c02cace0f49e45a62b73f4f8ddabf92da6ae32844179beb66e8ba5ffa8223aa17c720f2aa18f0721687020ce225f48e5fd7fadd3b55712aaa7b4cf4b'
+            '666ca8f031c8994a5c8b18837e8e8bbd822599fab871ea1e3ab1f99aba2555a199b3e6ffd997f78681b7fb01c3f610c85e7edf957b7caeefa5d7004e81ac06d9'
 
 #srmoura-revoked
             'cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e'
